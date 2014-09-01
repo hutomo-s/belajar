@@ -1,0 +1,5 @@
+_id
+timestamp
+suhu
+kelembaban
+lokasi_id
